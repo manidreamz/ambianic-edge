@@ -47,7 +47,7 @@ sources:
 
   recorded_cam_feed:
     # location of the recorded video file in a gitpod (or local) dev environment
-    uri: file:///workspace/ambianic-edge/tests/pipeline/avsource/test2-cam-person1.mkv
+    uri: file:///workspace/tests/pipeline/avsource/test_images_video.avi  ##test_images_video.avi ##test2-cam-person1.mkv
     type: video
     # live: true when we want the pipeline to keep looping over the same video file.
     # live: false when we want the pipeline to go through the video file once and stop.
